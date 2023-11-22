@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Laasya-2279
-- 👩‍🎓 I'm a Computer Science & Engineering Student
-- 👀 I’m interested in Designing and Software Development
-- 🏫 I’m currently studying CSE in MITS
+- 👋 Hi, I’m Laasya U G
+- 👩‍🎓 I'm a Computer Science Engineering Student in MITS, Kochi
+- 👀 I’m interested in Designing and Software Development, Video Editing, Graphic Designing
 - 📫 How to reach me: gmail: laasya2279@gmail.com                 
 <!---
 Laasya-2279/Laasya-2279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
