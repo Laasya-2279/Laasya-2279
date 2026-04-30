@@ -16,14 +16,6 @@
 - 🌿 Somewhere between code, novels, ESP32 tinkering, and editing life like a cinematic timeline    
 <br/>
 
-### ***🎧 What i'm listening to***
-
-<div align="center">
-  <img src="github-metrics/metrics.music.svg" alt="Spotify" width="480"/>
-</div>
-
-<br/>
-
 ---
 
 ### 🛠 ***Tech i work with***
