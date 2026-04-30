@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="Laas.png" width="100%" />
-</p>
+<div align="center">
+  <img src="Laas.png" width="100%" style="border-radius: 12px;" />
+</div>
 <br/>
 
-<div align="center">
+<div >
   <h1>Hi, I'm <b>Laasya</b></h1>
 </div>
 
 <br/>
->- 🎓 BTech CSE @ Muthoot Institute of Technology and Science, Kochi 
-> - 🌱 Focused on DSA, Core CS & backend systems  
-> - ☕ Runs on curiosity, chaos, and occasional caffeine  
-> - 💭 Thinks in logic, overthinks in everything else 
-> - 🌿 Somewhere between code, novels, ESP32 tinkering, and editing life like a cinematic timeline  
+
+- 🎓 BTech CSE @ Muthoot Institute of Technology and Science, Kochi  
+- 🌱 Focused on DSA, core CS, and building systems beyond just CRUD  
+- ☕ Runs on curiosity, chaos, and occasional caffeine  
+- 💭 Thinks in logic, overthinks in everything else  
+- 🌿 Somewhere between code, novels, ESP32 tinkering, and editing life like a cinematic timeline    
 <br/>
 
 ### ***🎧 What i'm listening to***
@@ -158,19 +159,9 @@
 <br/>
 
 ---
-
-### ***📅 Commit calendar***
-
-<div align="center">
-  <img src="github-metrics/metrics.calendar.svg" alt="Commit calendar" width="100%"/>
-</div>
-
-<br/>
-
----
 ### 📈 ***Github stats***
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laasya-2279&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laasya-2279&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=86400" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Laasya-2279&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
 </div>
 <br/>
