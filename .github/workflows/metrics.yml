@@ -8,18 +8,6 @@ on:
     branches: ["main"]
 
 jobs:
-
-  calendar:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/metrics.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
   languages:
     runs-on: ubuntu-latest
     steps:
@@ -30,10 +18,20 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-          tex, less, dockerfile, makefile, jupyter notebook
+            tex, less, dockerfile, makefile, jupyter notebook
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_analysis_timeout: 15
+          
+  calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/metrics.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
   leetcode:
     runs-on: ubuntu-latest
@@ -46,6 +44,7 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: laasya_2279
           plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_recent: 2
 
   music:
     runs-on: ubuntu-latest
@@ -56,30 +55,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
-          plugin_music_playlist: https://open.spotify.com/embed/track/1awtp7rf6ajhGY9BgzCHeZ
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M
           plugin_music_limit: 2
-
-  topics-icons:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/metrics.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-
-  topics-labels:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/metrics.topics.labels.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: labels
-          plugin_topics_sort: stars
