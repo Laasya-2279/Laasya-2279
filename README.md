@@ -4,7 +4,7 @@
 <br/>
 
 <div >
-  <h1>Hi, I'm <b>Laasya</b></h1>
+  <h1>Hey, I'm <b>Laasya</b></h1>
 </div>
 
 <br/>
