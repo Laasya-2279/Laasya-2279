@@ -107,12 +107,6 @@
 <br/>
 
 ---
-### ***🧩 Leetcode***
-
-<div align="center">
-  <img src="github-metrics/metrics.leetcode.svg" alt="LeetCode" width="480"/>
-</div>
-<br/>
 
 ---
 ### 📈 ***Github stats***
