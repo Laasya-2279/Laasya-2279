@@ -103,42 +103,6 @@
 
 ---
 
-### ***🚀 Things I've built***  
->Building things that actually matter
-
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Laasya-2279/Green_Note">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laasya-2279&repo=Green_Note&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p align="center"><sub><b>🚑 AI-powered emergency routing system</b></sub></p>
-    </td>
-    <td>
-      <a href="https://github.com/Laasya-2279/Cyra">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laasya-2279&repo=Cyra&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p align="center"><sub><b>🧬 IoT wearable + ML-based health prediction</b></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Laasya-2279/Gen-Ai-NyayaAi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laasya-2279&repo=Gen-Ai-NyayaAi&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p align="center"><sub><b>⚖️ RAG-based legal AI assistant</b></sub></p>
-    </td>
-    <td>
-      <a href="https://github.com/Laasya-2279/PitchPathAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laasya-2279&repo=PitchPathAI&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p align="center"><sub><b>📊 AI-powered idea validation & insights</b></sub></p>
-    </td>
-  </tr>
-</table>
-
 <br/>
 <br/>
 
